@@ -1,2 +1,9 @@
-# Leetcode-record
-Welcome to my Github warehouse, where I mainly store my problem-solving code and notes for brushing LeetCode. If you are preparing for a LeetCode interview, or want to improve your algorithm and data structure capabilities, then this repository will definitely help you.
+欢迎来到我的 Github 仓库，这里主要存放着我刷 LeetCode 的解题代码和笔记。如果你正在准备 LeetCode 的面试，或者想提高自己的算法和数据结构能力，那么这个仓库一定会对你有所帮助。
+
+这个仓库包含了我在 LeetCode 上刷过的题目的解题代码和详细的解题笔记。笔记中包含了每个题目的解题思路、时间复杂度分析、代码实现等内容。同时，我也在每个题目的笔记中附上了相关的参考资料和学习链接，希望能够帮助到大家更好地理解和掌握算法和数据结构。
+
+这个仓库中的代码全部使用 Python 语言实现，并按照 LeetCode 的题目分类进行了归档。每个分类下面又按照题目的难度分为了简单、中等、困难三个等级。你可以根据自己的实际需求来选择相应的题目进行练习和学习。
+
+除了代码和笔记之外，我也会不断更新这个仓库中的其他内容，比如 LeetCode 上的新题目解题代码和笔记，以及算法和数据结构方面的知识总结和分享等。欢迎大家提出宝贵的意见和建议，一起学习进步！
+
+最后，感谢你来访问我的 Github 仓库，希望这里的内容对你有所帮助，也希望你能在这里找到自己的收获和成长。
